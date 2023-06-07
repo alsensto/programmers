@@ -1,3 +1,5 @@
+package lv0;
+
 public class S120803 {
     public static void main(String[] args) {
         System.out.println(solution(2,3));

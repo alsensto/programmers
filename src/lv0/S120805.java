@@ -1,3 +1,5 @@
+package lv0;
+
 public class S120805 {
     public static void main(String[] args) {
         System.out.println(solution(7,2));

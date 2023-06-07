@@ -1,3 +1,5 @@
+package lv0;
+
 public class S120820 {
     public static void main(String[] args) {
         System.out.println(solution(40));
